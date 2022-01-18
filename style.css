@@ -1,0 +1,99 @@
+body {
+    
+    background-color: rgb(138, 135, 141);
+}
+.head {
+    position: absolute;
+    bottom: 0%;
+    top: 9.3%;
+    left: 20%;
+    transition: .2s;
+}
+
+
+
+.torso {
+    position: absolute;
+    left: 18.8%;
+    top: 38%;
+}
+
+
+.armL{
+position: absolute;
+left: 13.8% ;
+top: 37.6%;
+}
+
+.armR{
+position: absolute;
+left: 34.4%;
+top: 37.6%;
+}
+
+.legL{
+position: absolute;
+left: 18.5%;
+top: 85.5%;
+ }
+
+.legR{
+position: absolute;
+left: 28.34%;
+top: 85.5%;
+}
+
+.button {
+    
+    padding: 12px;
+    background-color: azure;
+    width: 500px;
+    height: 70px;
+    text-align: center;
+    position: absolute;
+    top: 200%;
+    left: 20%;
+
+}
+
+.paragraph {
+padding: 10px;
+width: 320px;
+position: absolute;
+top: 45%;
+left: 55%;
+font-family: sans-serif;
+color: azure;
+background-color: rgb(74, 71, 82);
+
+}
+
+.paragraph2 {
+    padding: 10px;
+    padding-right: 0px;
+    padding-left: 20px;
+    background-color:  rgb(74, 71, 82);
+    width: 320px;
+    position: absolute;
+    top: 73%;
+    left: 55%;
+    font-family: sans-serif;
+    color:azure;
+
+    }
+
+.suggestions {
+    padding: 10px;
+    background-color: azure;
+    width: 500px;
+    height: 100px;
+    text-align: center;
+    position: absolute;
+    top: 170%;
+    left: 50%;
+ 
+}
+
+
+
+
